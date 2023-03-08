@@ -18,8 +18,9 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "dark"
-
+theme: "minima"
+minima:
+  skin: dark
 rss: rss
 
 kramdown:
